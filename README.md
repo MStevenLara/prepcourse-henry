@@ -1,2 +1,1 @@
-# prepcourse-henry
-este es un repositorio de prueba del módulo 2 henry
+tercer intento del proyecto sobre como clonar un repositorio en mi escritirio local 
